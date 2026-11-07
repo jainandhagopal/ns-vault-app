@@ -32,14 +32,6 @@ You can download the latest signed APK directly from the **[Releases](../../rele
 
 ---
 
-## 📱 Screenshots / UI Preview
-
-| Vault Screen | Vault Details | Password Generator | Settings |
-| :---: | :---: | :---: | :---: |
-| *Coming Soon* | *Coming Soon* | *Coming Soon* | *Coming Soon* |
-
----
-
 ## 📖 How to Use
 
 1. **Setup**: On first launch, set up your master PIN and enable biometric unlock for quick, secure access.
